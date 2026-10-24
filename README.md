@@ -3,7 +3,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,45:102A56,100:087CF5&height=210&section=header&text=Jeanpier%20Buena%C3%B1o&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Development%20%7C%20Data%20Analytics%20%7C%20Artificial%20Intelligence&descAlignY=61&descSize=14&animation=fadeIn" alt="Jeanpier Buenaño - Web Development, Data Analytics and AI"/>
 
-# Jeanpier Buenaño Guerrero
 
 ### Full-Stack Developer | Data Analyst | AI Enthusiast | Telecommunications
 
