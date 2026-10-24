@@ -1,24 +1,26 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B68,100:087CF5&height=200&section=header&text=Jeanpier%20Buena%C3%B1o&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20Analyst%20%7C%20Artificial%20Intelligence%20%7C%20Telecommunications&descAlignY=62&descSize=13" alt="Banner de Jeanpier Buenaño Guerrero"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,45:102A56,100:087CF5&height=210&section=header&text=Jeanpier%20Buena%C3%B1o&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Development%20%7C%20Data%20Analytics%20%7C%20Artificial%20Intelligence&descAlignY=61&descSize=14&animation=fadeIn" alt="Jeanpier Buenaño - Web Development, Data Analytics and AI"/>
 
 # Jeanpier Buenaño Guerrero
 
-### Software Development | Data Analyst | Artificial Intelligence | Telecommunications
+### Full-Stack Developer | Data Analyst | AI Enthusiast | Telecommunications
 
-Desarrollo soluciones digitales integrando software, inteligencia artificial, análisis de datos y automatización para resolver problemas reales.
+Desarrollo experiencias web y soluciones digitales integrando análisis de datos,
+inteligencia artificial y automatización.
 
 <p>
   <a href="https://github.com/jeanpier2303">
-    <img src="https://img.shields.io/badge/GitHub-jeanpier2303-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/jeanpier-buena%C3%B1o-742601437/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 </div>
+
 
 ---
 
@@ -69,80 +71,58 @@ Me interesa crear software funcional, automatizar procesos y transformar informa
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,postman" alt="Git, GitHub, VS Code, Linux, Arduino y Postman"/>
 </p>
 
-
 ## Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### [PY-LÓGICA](https://github.com/jeanpier2303/py-logic)
+### BINOVA IA
 
-Aplicación educativa para aprender lógica de programación y fundamentos de Python mediante módulos y lecciones interactivas.
+Proyecto orientado a optimizar la clasificación de residuos sólidos mediante inteligencia artificial, sensores y componentes electrónicos.
+
+**Áreas:** Python, inteligencia artificial, Arduino y automatización.
+
+[Ver proyectos en GitHub](https://github.com/jeanpier2303?tab=repositories)
+
+    </td>
+    <td width="50%" valign="top">
+
+### PY-LÓGICA
+
+Aplicación educativa para fortalecer el pensamiento lógico y enseñar fundamentos de programación con Python mediante módulos y lecciones.
 
 **Tecnologías:** React Native, Expo y JavaScript.
 
-[Ver repositorio →](https://github.com/jeanpier2303/py-logic)
-
-    </td>
-    <td width="50%" valign="top">
-
-### [Kahua Store](https://github.com/jeanpier2303/Proyecto_final)
-
-Plataforma de comercio electrónico para la venta de jugos naturales, con funcionalidades de gestión de productos, usuarios y pedidos.
-
-**Áreas:** desarrollo web, backend, bases de datos y comercio electrónico.
-
-[Ver repositorio →](https://github.com/jeanpier2303/Proyecto_final)
+[Ver proyectos en GitHub](https://github.com/jeanpier2303?tab=repositories)
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### [GobIA Auditor](https://github.com/jeanpier2303/Hackathon-Nacional)
+### GobIA Auditor
 
-Proyecto de hackathon enfocado en el análisis de información de contratación pública y contratos de SECOP II mediante herramientas de inteligencia artificial.
+Prototipo de asistencia inteligente para analizar información de contratación pública y documentos relacionados con SECOP II.
 
-**Tecnologías:** Python, FastAPI e integración de IA.
+**Tecnologías:** Python, FastAPI e integración de modelos de IA.
 
-[Ver repositorio →](https://github.com/jeanpier2303/Hackathon-Nacional)
-
-    </td>
-    <td width="50%" valign="top">
-
-### [BINOVA IA](https://github.com/jeanpier2303/Contenedor-inteligente-)
-
-Proyecto de contenedor inteligente para apoyar la clasificación de residuos sólidos mediante inteligencia artificial, sensores y componentes electrónicos.
-
-**Áreas:** Python, Arduino, inteligencia artificial y automatización.
-
-[Ver repositorio →](https://github.com/jeanpier2303/Contenedor-inteligente-)
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### [Dedicación Eterna](https://github.com/jeanpier2303/Dedicacion-eterna)
-
-Plataforma orientada a la venta de artículos personalizados, con una propuesta digital enfocada en productos dedicados y regalos especiales.
-
-[Ver repositorio →](https://github.com/jeanpier2303/Dedicacion-eterna)
+[Ver proyectos en GitHub](https://github.com/jeanpier2303?tab=repositories)
 
     </td>
     <td width="50%" valign="top">
 
-### Más proyectos
+### Kahua Store
 
-Explora otros desarrollos, experimentos y proyectos de software en mi perfil de GitHub.
+Plataforma de comercio electrónico para productos naturales, con funcionalidades de gestión de productos, usuarios, pedidos e inventario.
 
-[Ver todos mis repositorios →](https://github.com/jeanpier2303?tab=repositories)
+**Áreas:** desarrollo web, APIs, MySQL y Docker.
+
+[Ver proyectos en GitHub](https://github.com/jeanpier2303?tab=repositories)
 
     </td>
   </tr>
 </table>
-
 
 ## Objetivo profesional
 
