@@ -69,58 +69,80 @@ Me interesa crear software funcional, automatizar procesos y transformar informa
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,postman" alt="Git, GitHub, VS Code, Linux, Arduino y Postman"/>
 </p>
 
+
 ## Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### BINOVA IA
+### [PY-LÓGICA](https://github.com/jeanpier2303/py-logic)
 
-Proyecto orientado a optimizar la clasificación de residuos sólidos mediante inteligencia artificial, sensores y componentes electrónicos.
+Aplicación educativa para aprender lógica de programación y fundamentos de Python mediante módulos y lecciones interactivas.
 
-**Áreas:** Python, inteligencia artificial, Arduino y automatización.
+**Tecnologías:** React Native, Expo y JavaScript.
 
-[Ver proyectos en GitHub](https://github.com/jeanpier2303?tab=repositories)
+[Ver repositorio →](https://github.com/jeanpier2303/py-logic)
 
     </td>
     <td width="50%" valign="top">
 
-### PY-LÓGICA
+### [Kahua Store](https://github.com/jeanpier2303/Proyecto_final)
 
-Aplicación educativa para fortalecer el pensamiento lógico y enseñar fundamentos de programación con Python mediante módulos y lecciones.
+Plataforma de comercio electrónico para la venta de jugos naturales, con funcionalidades de gestión de productos, usuarios y pedidos.
 
-**Tecnologías:** React Native, Expo y JavaScript.
+**Áreas:** desarrollo web, backend, bases de datos y comercio electrónico.
 
-[Ver proyectos en GitHub](https://github.com/jeanpier2303?tab=repositories)
+[Ver repositorio →](https://github.com/jeanpier2303/Proyecto_final)
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-### GobIA Auditor
+### [GobIA Auditor](https://github.com/jeanpier2303/Hackathon-Nacional)
 
-Prototipo de asistencia inteligente para analizar información de contratación pública y documentos relacionados con SECOP II.
+Proyecto de hackathon enfocado en el análisis de información de contratación pública y contratos de SECOP II mediante herramientas de inteligencia artificial.
 
-**Tecnologías:** Python, FastAPI e integración de modelos de IA.
+**Tecnologías:** Python, FastAPI e integración de IA.
 
-[Ver proyectos en GitHub](https://github.com/jeanpier2303?tab=repositories)
+[Ver repositorio →](https://github.com/jeanpier2303/Hackathon-Nacional)
 
     </td>
     <td width="50%" valign="top">
 
-### Kahua Store
+### [BINOVA IA](https://github.com/jeanpier2303/Contenedor-inteligente-)
 
-Plataforma de comercio electrónico para productos naturales, con funcionalidades de gestión de productos, usuarios, pedidos e inventario.
+Proyecto de contenedor inteligente para apoyar la clasificación de residuos sólidos mediante inteligencia artificial, sensores y componentes electrónicos.
 
-**Áreas:** desarrollo web, APIs, MySQL y Docker.
+**Áreas:** Python, Arduino, inteligencia artificial y automatización.
 
-[Ver proyectos en GitHub](https://github.com/jeanpier2303?tab=repositories)
+[Ver repositorio →](https://github.com/jeanpier2303/Contenedor-inteligente-)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### [Dedicación Eterna](https://github.com/jeanpier2303/Dedicacion-eterna)
+
+Plataforma orientada a la venta de artículos personalizados, con una propuesta digital enfocada en productos dedicados y regalos especiales.
+
+[Ver repositorio →](https://github.com/jeanpier2303/Dedicacion-eterna)
+
+    </td>
+    <td width="50%" valign="top">
+
+### Más proyectos
+
+Explora otros desarrollos, experimentos y proyectos de software en mi perfil de GitHub.
+
+[Ver todos mis repositorios →](https://github.com/jeanpier2303?tab=repositories)
 
     </td>
   </tr>
 </table>
+
 
 ## Objetivo profesional
 
