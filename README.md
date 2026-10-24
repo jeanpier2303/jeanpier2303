@@ -58,7 +58,6 @@ Me interesa crear software funcional, automatizar procesos y transformar informa
 ### Inteligencia artificial y análisis de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" alt="TensorFlow y scikit-learn"/>
   <img src="https://img.shields.io/badge/Power%20BI-An%C3%A1lisis%20de%20datos-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/ETL-Data%20Processing-2563EB?style=flat" alt="Procesos ETL"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-7C3AED?style=flat" alt="Inteligencia artificial"/>
